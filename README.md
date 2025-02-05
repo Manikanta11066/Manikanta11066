@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Manikanta, and I'm a 3rd-year Computer Science Engineering (CSE) undergraduate student.</h2>
+<h2 align="left">Hi 👋! My name is Manikanta, and I'm a 2nd-year Computer Science Engineering (CSE) undergraduate student.</h2>
 
 ###
 
